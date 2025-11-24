@@ -39,8 +39,7 @@ Unlike traditional alarms that can be simply silenced with a button press, this 
 
 The following Fritzing diagram illustrates the connections between the RTC, LCD, FSR Sensor, and the User Interface buttons.
 
-![Alarm clock _bb](https://github.com/user-attachments/assets/cee1c3d9-cabf-4107-8d29-ca10dfa5f06a)
-
+<img width="11194" height="7370" alt="Alarm clock" src="https://github.com/user-attachments/assets/12ab5fa2-8493-4256-8b02-d26b573bb2bc" />
 
 ### Pin Configuration
 * **FSR Sensor:** Analog Pin `A0` (Voltage Divider Circuit)
